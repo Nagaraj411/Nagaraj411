@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Nagaraju Ande
 
-### DevOps Engineer @ RAMTeCH Software Solution
+### DevOps Engineer @ RAMTeCH Software Solutions
 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Monitoring & Logging (Prometheus + Grafana) 
 
 
