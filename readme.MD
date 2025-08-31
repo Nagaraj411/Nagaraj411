@@ -86,3 +86,5 @@ Built strong foundations in troubleshooting, system administration, and infrastr
 </div>
 
 ---
+
+✨ Thanks for visiting! ✨
