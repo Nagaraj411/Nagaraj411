@@ -13,13 +13,19 @@
 
 ---
 
-I'm a passionate DevOps & Cloud Engineer with over 2+ years of experience in building automated, reliable, and scalable infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code (IaC), and container orchestration using tools like AWS, Kubernetes, and Terraform. My focus is on improving developer productivity, streamlining deployments, and ensuring high availability in cloud environments.
+DevOps & Cloud Engineer with 2+ years of experience in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
 
 ---
 
-DevOps & Cloud Engineer with 2+ years of experience in designing, deploying, and maintaining cloud-native infrastructure.  
-Proficient in **AWS services, CI/CD pipeline implementation, Infrastructure as Code (Terraform), and Kubernetes orchestration**.  
-Hands-on experience in **automation, monitoring (Prometheus, Grafana), and version control (Git/GitHub)**.  
-Strong problem-solving skills with a focus on building scalable, reliable, and secure platforms that enhance business agility.
+### 🧰 Tech Stack
+
+- **Cloud**: AWS
+- **OS**: Linux, Windows
+- **CI/CD**: AWS DevOps, GitHub Actions, Jenkins  
+- **IaC**: Terraform. Cloudformation  
+- **Containers**: Docker, Kubernetes 
+- **Security & Scanning**: SonarQube, Veracode 
+- **Scripting**: Bash, Python
+- **Monitoring**: Prometheus, Grafana 
 
 ---
