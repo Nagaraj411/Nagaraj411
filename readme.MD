@@ -13,7 +13,7 @@
 
 ---
 
-DevOps & Cloud Engineer with 2+ years of experience in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
+**DevOps Engineer** with **2+ years of experience** in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
 
 ---
 
