@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Nagaraju Ande
 
-### DevOps Engineer @ Ramtech Software Solution
+### DevOps Engineer @ RAMTeCH Software Solution
 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform | Monitoring & Logging (Prometheus + Grafana) 
 
 
@@ -41,17 +41,17 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **2 years i
 
 💼 Career Snapshot
 
-- 🏢 **JPMorgan Chase** 🚀 DevOps Engineer
+- 🏢 **RAMTeCH** 🚀 DevOps Engineer
 
 Automating cloud-native deployments using AWS, Kubernetes, Terraform, and CI/CD pipelines.
 Focused on reliability, scalability, and monitoring (Prometheus/Grafana) in hybrid environments.
 
-- 🏢 **JPMorgan Chase** 🛰️ QA Analyst
+- 🏢 **RAMTeCH** 🛰️ QA Analyst
 
 Tested and validated GIS-based enterprise systems across virtualized environments.
 Gained exposure to Cisco networking, VMware, and spatial databases, laying groundwork for DevOps.
 
-- 🏢 **JPMorgan Chase** 🖥️ Desktop Support Engineer 
+- 🏢 **CENTILLION** 🖥️ Desktop Support Engineer 
 
 Provided IT support by installing, configuring, and maintaining systems & applications.
 Built strong foundations in troubleshooting, system administration, and infrastructure reliability.
