@@ -22,7 +22,7 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **2 years i
 - **Cloud**: AWS
 - **OS**: Linux, Windows
 - **CI/CD**: AWS DevOps, GitHub Actions, Jenkins  
-- **IaC**: Terraform. Cloudformation  
+- **IaC**: Ansible, Terraform  
 - **Containers**: Docker, Kubernetes 
 - **Security & Scanning**: SonarQube, Veracode 
 - **Scripting**: Bash, Python
