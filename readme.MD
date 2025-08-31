@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Nagaraj411/Nagaraj411/blob/main/Linkedin Banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Nagaraj411/Nagaraj411/blob/main/Linkedin Banner(1).png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Nagaraju Ande
