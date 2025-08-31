@@ -61,3 +61,4 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 
 ---
 ⭐ *This portfolio highlights my journey from GIS automation to DevOps, proving my ability to adapt, automate, and scale infrastructure reliably.*  
+
