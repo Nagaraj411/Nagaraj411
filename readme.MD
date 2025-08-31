@@ -26,7 +26,7 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **2 years i
 - **Containers**: Docker, Kubernetes 
 - **Security & Scanning**: SonarQube, Veracode 
 - **Scripting**: Bash, Python
-- **Monitoring**: Prometheus, Grafana 
+- **Monitoring**: Prometheus, Grafana
 
 ---
 
@@ -38,3 +38,20 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **2 years i
 📈 Ensure observability and performance with Prometheus, and Grafana, minimizing downtime
 
 ---
+
+💼 Career Snapshot
+
+- 🏢 **JPMorgan Chase** 🚀 DevOps Engineer
+
+Automating cloud-native deployments using AWS, Kubernetes, Terraform, and CI/CD pipelines.
+Focused on reliability, scalability, and monitoring (Prometheus/Grafana) in hybrid environments.
+
+- 🏢 **JPMorgan Chase** 🛰️ QA Analyst
+
+Tested and validated GIS-based enterprise systems across virtualized environments.
+Gained exposure to Cisco networking, VMware, and spatial databases, laying groundwork for DevOps.
+
+- 🏢 **JPMorgan Chase** 🖥️ Desktop Support Engineer 
+
+Provided IT support by installing, configuring, and maintaining systems & applications.
+Built strong foundations in troubleshooting, system administration, and infrastructure reliability.
