@@ -30,3 +30,11 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **2 years i
 
 ---
 
+🔧 What I Do
+🛠️ Build and manage infrastructure on AWS using Terraform for repeatable, secure provisioning
+🚀 Design high-performance CI/CD pipelines using AWS DevOps, GitHub Actions, Jenkins
+📃️ Manage codebases and collaboration with GitHub , ensuring streamlined source control and peer workflows
+🤖 Automate infrastructure and operational tasks using Linux, Ansible, and Python, improving consistency and speed
+📈 Ensure observability and performance with Prometheus, and Grafana, minimizing downtime
+
+---

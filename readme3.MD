@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nagaraju Ande
 
-I'm a **DevOps & Cloud Engineer** with **5+ years of experience** (including **2 years in GIS automation** and **3+ years in DevOps/SRE**).  
+I'm a **DevOps & Cloud Engineer** with **7+ years of experience** (including **2 years in DevOps Engineer**, **3 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**)  
 I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a strong focus on building **scalable, reliable, and secure platforms**.  
 
 ---
