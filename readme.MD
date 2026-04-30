@@ -13,7 +13,11 @@
 
 ---
 
+<<<<<<< HEAD
 I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years in DevOps Engineer**, **1 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**) in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
+=======
+I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years in DevOps Engineer**, **3 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**) in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
+>>>>>>> 5978054 (k8)
 
 ---
 
@@ -30,12 +34,22 @@ I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years i
 
 ---
 
-🔧 What I Do
+🔧 What I Do (Step-by-Step)
+
+Step 1:
 🛠️ Build and manage infrastructure on AWS using Terraform for repeatable, secure provisioning
-🚀 Design high-performance CI/CD pipelines using AWS DevOps, GitHub Actions, Jenkins
-📃️ Manage codebases and collaboration with GitHub , ensuring streamlined source control and peer workflows
-🤖 Automate infrastructure and operational tasks using Linux, Ansible, and Python, improving consistency and speed
-📈 Ensure observability and performance with Prometheus, and Grafana, minimizing downtime
+
+Step 2:
+🚀 Design high-performance CI/CD pipelines using AWS DevOps, GitHub Actions, and Jenkins
+
+Step 3:
+📃 Manage codebases and collaboration using GitHub, ensuring streamlined source control and peer workflows
+
+Step 4:
+🤖 Automate infrastructure and operational tasks using Linux, Ansible to improve consistency and speed
+
+Step 5:
+📈 Ensure observability and performance using Prometheus and Grafana, minimizing downtime
 
 ---
 
