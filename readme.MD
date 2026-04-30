@@ -13,13 +13,10 @@
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years in DevOps Engineer**, **1 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**) in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
-=======
+
 I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years in DevOps Engineer**, **3 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**) in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
 
-=======
 I'm a **DevOps Engineer** with **7+ years of experience** (including **4 years in DevOps Engineer**, **3 years in QA Analysis** &  **2.9 years in Desktop Support Engineer**) in designing, deploying, and maintaining cloud-native infrastructure. Skilled in AWS, CI/CD, Terraform, and Kubernetes orchestration, with hands-on expertise in automation, monitoring, and Git/GitHub. Strong problem-solving skills focused on building scalable, reliable, and secure platforms.
 
 
@@ -50,11 +47,7 @@ Step 3:
 📃 Manage codebases and collaboration using GitHub, ensuring streamlined source control and peer workflows
 
 Step 4:
-<<<<<<< HEAD
 🤖 Automate infrastructure and operational tasks using Linux, Ansible to improve consistency and speed
-=======
-🤖 Automate infrastructure and operational tasks using Linux, Ansible, and Python to improve consistency and speed
-
 
 Step 5:
 📈 Ensure observability and performance using Prometheus and Grafana, minimizing downtime
