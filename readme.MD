@@ -91,6 +91,13 @@ Built strong foundations in troubleshooting, system administration, and infrastr
 </p>
 
 ---
+<h3>⚙️ Skills Showcase</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,git,vscode,prometheus,grafana" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
